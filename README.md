@@ -16,9 +16,7 @@ I'm interested in **Software Development, Data Structures & Algorithms, and Prob
 - 🔨 Working on academic and personal projects
 
 ---
-
 ## 🛠️ Languages & Tools
-
 
 <p align="left">
 
@@ -54,10 +52,20 @@ I'm interested in **Software Development, Data Structures & Algorithms, and Prob
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</a>
+
 </p>
-
 ---
+## 🧠 Computer Science
 
+`Data Structures & Algorithms` `OOP` `DBMS` `Problem Solving`
+___
 ## 📌 Featured Project
 
 ### 🛒 OneCart — E-Commerce Web Application
