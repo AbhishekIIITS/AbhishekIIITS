@@ -17,29 +17,44 @@ I'm interested in **Software Development, Data Structures & Algorithms, and Prob
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Languages & Tools
 
-**Programming Languages**
-- C
-- C++
-- Python
-- JavaScript
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-- Node.js
+<p align="left">
 
-**Database & Backend**
-- MongoDB
-- SQL
-- API Integration
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+</a>
 
-**Computer Science**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+</a>
+
+</p>
 
 ---
 
